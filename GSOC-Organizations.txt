@@ -1,0 +1,3055 @@
+52°North Initiative for Geospatial Open Source Software GmbH
+
+	TECHNOLOGIES: 
+		* javascript
+		* java
+		* ogc standards
+		* web services
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* spatial data
+		* sensor web
+		* web-based geoprocessing
+		* earth observation
+		* geoinformatics
+
+
+aimacode
+
+	TECHNOLOGIES: 
+		* python
+		* java
+		* javascript
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* artificial intelligence
+		* education
+
+
+AOSSIE - The Australian National University's Open-Source Software Innovation and Education
+
+	TECHNOLOGIES: 
+		* scala
+		* lisp
+		* llvm
+		* python
+		* postgresql
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* logic
+		* live programming
+		* data analysis
+		* health
+		* privacy
+
+
+Apache Software Foundation
+
+	TECHNOLOGIES: 
+		* java
+		* ruby
+		* python
+		* javascript
+		* couchdb
+
+	CATEGORY:  
+
+	TOPICS: 
+		* cloud
+		* ddd
+		* dsl
+		* database
+		* web
+
+
+ArchC
+
+	TECHNOLOGIES: 
+		* c++
+		* python
+		* archc
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* computer architecture
+		* processor design
+		* simulators
+
+
+ASCEND
+
+	TECHNOLOGIES: 
+		* python
+		* c
+		* c/c++
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* engineering
+		* simulation
+		* system modelling
+		* mathematical software
+		* solver
+
+
+BeagleBoard.org
+
+	TECHNOLOGIES: 
+		* beaglebone
+		* javascript
+		* python
+		* linux
+		* c
+
+	CATEGORY:  
+
+	TOPICS: 
+		* robotics
+		* iot
+		* real time
+		* physical computing
+		* coprocessing
+
+
+Beam Community
+
+	TECHNOLOGIES: 
+		* erlang
+		* elixir
+		* xmpp
+		* beam
+		* mqtt
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* messaging
+		* real time
+		* cloud
+		* scalability
+
+
+Berkman Center for Internet and Society
+
+	TECHNOLOGIES: 
+		* ruby on rails
+		* javascript
+		* sql/nosql
+		* meteor.js
+		* go
+
+	CATEGORY:  
+
+	TOPICS: 
+		* censorship
+		* education
+		* internet freedom
+		* digital rights
+		* law and policy
+
+
+BioJS
+
+	TECHNOLOGIES: 
+		* javascript
+		* python
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* javascript
+		* bioinformatics
+		* life sciences
+		* coding standards
+		* visualization
+
+
+Biomedical Informatics, Emory University
+
+	TECHNOLOGIES: 
+		* java
+		* medical imaging
+		* deep learning
+		* hadoop
+		* python
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* cloud
+		* web platform and services
+		* precision medicine
+		* big data visualization
+		* data fusion
+
+
+Blender Foundation
+
+	TECHNOLOGIES: 
+		* c
+		* c++
+		* python
+		* opengl
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* 3d
+		* tools
+		* animation
+		* games
+		* rendering
+
+
+Boston University / XIA
+
+	TECHNOLOGIES: 
+		* xia
+		* c
+		* linux kernel
+		* advanced data structures
+
+	CATEGORY:  Cloud
+
+	TOPICS: 
+		* computer networking
+		* future internet architecture
+		* research
+
+
+BRL-CAD
+
+	TECHNOLOGIES: 
+		* opencl
+		* opengl
+		* c/c++
+		* python
+		* tcl
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* cad
+		* geometry
+		* 3d
+		* ray tracing
+		* visualization
+
+
+BuildmLearn
+
+	TECHNOLOGIES: 
+		* python
+		* django
+		* bootstrap
+		* android
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* mlearning
+		* mobile app
+		* web apps
+		* education
+
+
+Canadian Centre for Computational Genomics (C3G) - Montreal node
+
+	TECHNOLOGIES: 
+		* python
+		* r-project
+		* javascript
+		* sql
+		* git
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* bioinformatics
+		* visualization
+		* statistics
+		* genomics
+		* population genetics
+
+
+Catrobat
+
+	TECHNOLOGIES: 
+		* android
+		* java
+		* html5
+		* web
+		* javascript
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* education
+		* programming tools
+		* robotics
+		* web applications
+		* scratch
+
+
+cBioPortal for Cancer Genomics
+
+	TECHNOLOGIES: 
+		* java
+		* javascript
+		* web
+		* html
+		* big data
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* cancer
+		* genomics
+		* bioinformatics
+		* precision medicine
+		* biology
+
+
+CCExtractor Development
+
+	TECHNOLOGIES: 
+		* c
+		* video
+		* ffmpeg
+		* subtitles
+		* linux
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* media analysis
+		* database
+		* subtitles
+		* decoder
+		* video
+
+
+Celluloid
+
+	TECHNOLOGIES: 
+		* ruby
+		* multi-threading
+		* multi-core
+		* zeromq
+		* high-resolution timers
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* concurrency
+		* parallel
+		* evented
+		* distributed
+		* actor model
+
+
+Ceph
+
+	TECHNOLOGIES: 
+		* c/c++
+		* python
+		* object-storage
+
+	CATEGORY:  Data and Databases
+
+	TOPICS: 
+		* network storage
+		* cloud
+		* distributed systems
+
+
+CERN SFT
+
+	TECHNOLOGIES: 
+		* c++
+		* python
+		* javascript
+		* clang
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* numerical and data analysis software
+		* simulation software
+		* cloud
+		* machine learning
+
+
+Chapel
+
+	TECHNOLOGIES: 
+		* python
+		* chapel
+		* c
+		* c++
+		* high performance computing
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* programming languages
+		* compilers
+		* high performance computing
+		* distributed computing
+		* parallel computing
+
+
+CiviCRM
+
+	TECHNOLOGIES: 
+		* php
+		* javascript
+		* mysql
+		* angularjs
+		* d3js
+
+	CATEGORY:  Social / Communications
+
+	TOPICS: 
+		* civic technology
+		* crm
+		* fundraising
+		* events management
+		* membership management
+
+
+Classical Language Toolkit
+
+	TECHNOLOGIES: 
+		* python
+		* javascript
+		* java
+
+	CATEGORY:  
+
+	TOPICS: 
+		* natural language processing
+		* web
+		* machine translation
+		* machine learning
+		* human language technologies
+
+
+CloudCV
+
+	TECHNOLOGIES: 
+		* python
+		* javascript
+		* lua
+		* caffe
+		* torch
+
+	CATEGORY:  Cloud
+
+	TOPICS: 
+		* computer vision
+		* deep learning
+		* machine learning
+
+
+Computational Biology @ University of Nebraska-Lincoln
+
+	TECHNOLOGIES: 
+		* webgl
+		* javascript
+		* mysql
+		* react
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* image analysis
+		* computational biology
+		* systems biology
+		* networks
+		* real time
+
+
+Computational Science and Engineering at TU Wien
+
+	TECHNOLOGIES: 
+		* javascript
+		* html
+		* css
+		* java
+		* c++
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* science and enineering
+		* internet of things
+		* visualization
+		* simulation
+		* mesh generation
+
+
+Copyleft Games
+
+	TECHNOLOGIES: 
+		* python
+		* opengl
+		* c
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* developer tools
+
+
+coreboot
+
+	TECHNOLOGIES: 
+		* c
+		* assembly
+		* open hardware
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* firmware
+		* drivers
+		* hardware
+		* embedded systems
+		* real time
+
+
+CVXPY
+
+	TECHNOLOGIES: 
+		* python
+
+	CATEGORY:  
+
+	TOPICS: 
+		* convex optimization
+		* optimization
+		* dsl
+
+
+D Foundation
+
+	TECHNOLOGIES: 
+		* dlang
+		* c++
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* compilers
+
+
+dbpediaspotlight
+
+	TECHNOLOGIES: 
+		* java
+		* scala
+		* rdf
+		* python
+		* nosql
+
+	CATEGORY:  Data and Databases
+
+	TOPICS: 
+		* natural language processing
+		* big data
+		* semantic web
+		* data science
+
+
+Debian Project
+
+	TECHNOLOGIES: 
+		* python
+		* c
+		* c++
+		* ruby
+		* django
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* web
+		* operating systems
+		* continuous integration
+
+
+Discourse
+
+	TECHNOLOGIES: 
+		* ruby
+		* ruby on rails
+		* javascript
+		* ember
+		* docker
+
+	CATEGORY:  Social / Communications
+
+	TOPICS: 
+		* forum
+		* communication
+		* email
+		* web applications
+
+
+Distributed and Unified Numerics Environment (DUNE)
+
+	TECHNOLOGIES: 
+		* c++
+		* python
+		* cmake
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* partial differential equations
+		* physics
+		* mathematics
+		* high performance computing
+		* scientific computing
+
+
+Django Software Foundation
+
+	TECHNOLOGIES: 
+		* python
+		* django
+
+	CATEGORY:  
+
+	TOPICS: 
+		* web development
+
+
+Drupal
+
+	TECHNOLOGIES: 
+		* php
+		* symfony
+		* sql
+		* javascript
+		* html5
+
+	CATEGORY:  
+
+	TOPICS: 
+		* web development
+		* content management
+		* object-oriented
+		* cms
+
+
+Eclipse Foundation
+
+	TECHNOLOGIES: 
+		* java
+		* geospatial
+		* c/c++
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* java
+		* eclipse
+
+
+Fedora Project
+
+	TECHNOLOGIES: 
+		* python
+		* flask
+		* postgresql
+		* html5
+		* javascript
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* web development
+		* metrics
+		* realtime messaging
+		* contributor activity
+		* community architecture
+
+
+FFmpeg
+
+	TECHNOLOGIES: 
+		* c
+		* asm
+		* git
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* audio
+		* video
+		* image
+		* compression
+		* multimedia
+
+
+FOSDEM VZW
+
+	TECHNOLOGIES: 
+		* ruby on rails
+		* postgresql
+		* git
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* web
+		* programming tools
+		* programming
+		* programming languages
+		* ruby
+
+
+FOSSASIA
+
+	TECHNOLOGIES: 
+		* javascript
+		* android
+		* python
+		* java
+		* json api
+
+	CATEGORY:  
+
+	TOPICS: 
+		* web
+		* mobile
+		* graphics
+		* fashiontech
+		* json
+
+
+Free and Open Source Silicon Foundation
+
+	TECHNOLOGIES: 
+		* open hardware
+		* fpga
+		* compiler
+		* python
+		* javascript
+
+	CATEGORY:  
+
+	TOPICS: 
+		* digital design
+		* compilers
+		* eda tools
+		* debug
+		* embedded systems
+
+
+FreeBSD
+
+	TECHNOLOGIES: 
+		* c/c++
+		* clang
+		* llvm
+		* shell script
+		* make
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* virtualization
+		* embeddded
+		* kernel
+		* cloud
+		* security
+
+
+Freifunk
+
+	TECHNOLOGIES: 
+		* openwrt
+		* olsr
+		* batman
+		* c
+		* lua
+
+	CATEGORY:  Social / Communications
+
+	TOPICS: 
+		* mesh
+		* wifi
+		* routing protocols
+		* user interface
+		* monitoring
+
+
+Gambit - Software Tools for Game Theory
+
+	TECHNOLOGIES: 
+		* javascript
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* game theory
+		* academic projects
+		* graphics
+
+
+Ganeti
+
+	TECHNOLOGIES: 
+		* python
+		* haskell
+		* kvm
+		* xen
+		* virtualization
+
+	CATEGORY:  
+
+	TOPICS: 
+		* virtualization
+		* automation
+
+
+Genes, Genomes and Variation
+
+	TECHNOLOGIES: 
+		* mysql
+		* javascript
+		* perl
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* bioinformatics
+		* databases
+		* data visualisation
+		* web platform and services
+
+
+Gentoo Foundation
+
+	TECHNOLOGIES: 
+		* shell script
+		* c/c++
+		* python
+		* perl
+		* sql
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* virtualization
+		* security
+		* linux
+		* embeddded
+		* operating systems
+
+
+Git
+
+	TECHNOLOGIES: 
+		* c
+		* shell script
+		* git
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* version control
+		* dvcs
+
+
+GitHub
+
+	TECHNOLOGIES: 
+		* git
+		* atom
+		* node.js
+		* ruby
+		* c#
+
+	CATEGORY:  
+
+	TOPICS: 
+		* git
+		* version control
+		* editor
+		* collaboration
+
+
+Global Alliance for Genomics & Health
+
+	TECHNOLOGIES: 
+		* python
+		* java
+		* protobuf
+		* sql
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* genomics
+		* big data
+		* standards
+		* apis
+		* data sharing
+
+
+GNOME
+
+	TECHNOLOGIES: 
+		* c
+		* python
+		* javascript
+		* gtk+
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* desktop environment
+		* desktop applications
+
+
+gnss-sdr
+
+	TECHNOLOGIES: 
+		* c/c++
+		* c++11
+		* c++14
+		* gnss
+
+	CATEGORY:  Social / Communications
+
+	TOPICS: 
+		* communications
+		* geolocation
+		* navigation
+		* software defined radio
+
+
+GNU Mailman
+
+	TECHNOLOGIES: 
+		* python
+		* email
+		* django
+
+	CATEGORY:  Social / Communications
+
+	TOPICS: 
+		* mailing lists
+		* communication
+
+
+GNU Octave
+
+	TECHNOLOGIES: 
+		* hg
+		* c++
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* mathematics
+		* numerical computation
+		* numerical and data analysis software
+		* matlab
+		* data processing
+
+
+GNU Project
+
+	TECHNOLOGIES: 
+		* posix
+		* c
+		* lisp
+		* python
+		* eiffel
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* operating systems
+		* free software
+
+
+GNU Radio
+
+	TECHNOLOGIES: 
+		* c++
+		* python
+		* software radio
+		* dsp
+		* rf
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* software defined radio
+		* cognitive radio
+		* spectrum analysis
+		* information theory
+		* signal processing
+
+
+GPAC
+
+	TECHNOLOGIES: 
+		* mp4
+		* dash
+		* mp4box
+		* javascript
+		* c++
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* streaming
+		* research
+		* industry
+		* playback
+		* multimedia
+
+
+Green Navigation
+
+	TECHNOLOGIES: 
+		* javascript
+		* postgresql
+		* polymer
+		* go
+		* electromobility
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* web applications
+		* mobile
+		* database
+		* algorithm prototyping/visualization
+		* routing
+
+
+gRPC
+
+	TECHNOLOGIES: 
+		* distributed systems
+		* networking
+		* micro-services
+		* scalability
+		* http/2
+
+	CATEGORY:  Cloud
+
+	TOPICS: 
+		* cloud
+		* micro services
+		* full stack web and mobile
+		* distributed systems
+		* apis
+
+
+Health Information Systems Programme
+
+	TECHNOLOGIES: 
+		* java
+		* android
+		* javascript
+		* reactjs
+		* gradle
+
+	CATEGORY:  
+
+	TOPICS: 
+		* mobile
+		* data processing
+		* gis
+		* e-health
+		* global health and development
+
+
+Homebrew
+
+	TECHNOLOGIES: 
+		* ruby
+		* git
+		* osx
+
+	CATEGORY:  
+
+	TOPICS: 
+		* package system
+		* homebrew
+
+
+Inclusive Design Institute
+
+	TECHNOLOGIES: 
+		* javascript
+		* jquery
+		* html5
+		* css
+		* node.js
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* accessibility
+		* inclusivity
+		* web applications
+		* web
+
+
+Indic Project
+
+	TECHNOLOGIES: 
+		* android
+		* python
+		* javascript
+		* ruby on rails
+		* c++
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* natural language processing
+		* language techology
+		* input methods
+
+
+Inkscape
+
+	TECHNOLOGIES: 
+		* c++
+		* python
+		* svg
+		* css
+		* gtk+
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* graphics
+		* web
+
+
+International Neuroinformatics Coordinating Facility
+
+	TECHNOLOGIES: 
+		* c++
+		* python
+		* gpu
+		* javascript
+		* java
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* neuroscience
+		* data science
+		* simulation
+		* visualization
+		* big data
+
+
+Java Pathfinder Team
+
+	TECHNOLOGIES: 
+		* java
+		* jvm
+		* android
+		* distributed systems
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* program analysis
+		* testing
+		* verification
+		* model checking
+		* environment generation
+
+
+JBoss Community
+
+	TECHNOLOGIES: 
+		* java
+		* android
+		* ide
+		* aerogear
+		* asciidoctor
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* testing
+		* monitoring
+		* enterprise applications
+		* mobile
+		* eclipse
+
+
+Jenkins Project
+
+	TECHNOLOGIES: 
+		* java
+		* groovy
+		* jenkins
+		* css
+		* html
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* automation
+		* continuous integration
+		* continuous delivery
+		* java
+		* development
+
+
+Joomla!
+
+	TECHNOLOGIES: 
+		* php
+		* css
+		* html
+		* javascript
+		* jquery
+
+	CATEGORY:  
+
+	TOPICS: 
+		* cms
+		* object-oriented
+		* mvc
+		* web
+
+
+jQuery Foundation
+
+	TECHNOLOGIES: 
+		* javascript
+		* html5
+		* css
+		* jquery
+
+	CATEGORY:  
+
+	TOPICS: 
+		* unit testing
+		* software testing
+		* framework development
+		* user interface components
+		* event handling
+
+
+JSK Robotics Laboratory
+
+	TECHNOLOGIES: 
+		* euslisp
+		* openhrp
+		* openrtm
+		* ros
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* robotics
+
+
+KDE
+
+	TECHNOLOGIES: 
+		* qt
+		* cmake
+		* c++
+		* php
+
+	CATEGORY:  Other
+
+	TOPICS: 
+		* desktop applications
+		* mobile
+		* education
+		* graphics
+		* wiki
+
+
+KolibriOS
+
+	TECHNOLOGIES: 
+		* fasm
+		* flat assembler
+		* x86 assembly
+		* i386
+		* i586
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* desktop
+		* operating systems
+		* drivers
+		* hardware
+		* lowlevel
+
+
+LabLua
+
+	TECHNOLOGIES: 
+		* lua
+		* luarocks
+		* elasticsearch
+		* netbsd
+		* céu
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* programming languages
+		* operating systems
+		* distributed systems
+		* scripting
+
+
+LibreOffice
+
+	TECHNOLOGIES: 
+		* c++
+		* python
+		* java
+		* android
+		* opengl
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* office suite
+		* cloud
+		* big project
+
+
+Libvirt
+
+	TECHNOLOGIES: 
+		* c
+		* qemu
+		* xen
+		* containers
+
+	CATEGORY:  Cloud
+
+	TOPICS: 
+		* cloud
+		* virtualization
+
+
+Liquid Galaxy Project
+
+	TECHNOLOGIES: 
+		* javascript
+		* ros
+		* gis
+		* cesium
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* virtual reality
+		* geospatial
+		* graphics
+
+
+lowRISC
+
+	TECHNOLOGIES: 
+		* verilog
+		* fpga
+		* chisel
+		* c++
+		* linux
+
+	CATEGORY:  
+
+	TOPICS: 
+		* embedded hardware
+		* system-on-chip
+		* security
+		* education
+		* debug
+
+
+MariaDB
+
+	TECHNOLOGIES: 
+		* mysql
+		* mariadb
+		* c
+		* perl
+
+	CATEGORY:  Data and Databases
+
+	TOPICS: 
+		* databases
+		* database
+
+
+Matrix.org
+
+	TECHNOLOGIES: 
+		* react
+		* android
+		* ios
+		* golang
+		* python
+
+	CATEGORY:  Social / Communications
+
+	TOPICS: 
+		* real time
+		* communications
+		* collaboration
+		* interoperability
+		* iot
+
+
+MBDyn, Department of Aerospace Science and Technology at Politecnico di Milano
+
+	TECHNOLOGIES: 
+		* c++
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* physics
+		* engineering
+		* simulation
+		* robotics
+		* real time
+
+
+McGill Space Institute
+
+	TECHNOLOGIES: 
+		* python
+		* sql
+		* databases
+		* big data
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* space
+		* astronomy
+
+
+MetaBrainz Foundation
+
+	TECHNOLOGIES: 
+		* python
+		* perl
+		* postgresql
+		* javascript
+
+	CATEGORY:  Data and Databases
+
+	TOPICS: 
+		* music
+		* metadata
+		* machine learning
+		* big data
+		* books
+
+
+Mifos Initiative
+
+	TECHNOLOGIES: 
+		* java
+		* javascript
+		* angularjs
+		* android
+		* mysql
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* fintech
+		* financial inclusion
+		* cloud
+		* big data
+		* mobile
+
+
+MIT Media Lab
+
+	TECHNOLOGIES: 
+		* java
+		* html/javascript
+		* android
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* educational technology
+		* education
+
+
+Mixxx DJ Software
+
+	TECHNOLOGIES: 
+		* c++11
+		* c++
+		* qt
+		* audio
+		* opengl
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* real time
+		* audio
+		* dj
+		* music
+
+
+mlpack: a scalable C++ machine learning library
+
+	TECHNOLOGIES: 
+		* c++
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* machine learning
+		* data mining
+		* fast algorithms
+
+
+Mobile Robot Programming Toolkit (MRPT)
+
+	TECHNOLOGIES: 
+		* c++
+		* ros
+		* opencv
+		* cmake
+		* qt
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* robotics
+		* selfdriving
+		* slam
+		* mobile robots
+		* vision
+
+
+ModSecurity
+
+	TECHNOLOGIES: 
+		* waf
+		* web application firewall
+
+	CATEGORY:  Security
+
+	TOPICS: 
+		* web application security
+
+
+Moodle
+
+	TECHNOLOGIES: 
+		* php
+		* jquery
+		* mysql
+		* postgresql
+		* javascript
+
+	CATEGORY:  Social / Communications
+
+	TOPICS: 
+		* education
+		* web applications
+		* e-learning
+		* school systems
+		* learning management
+
+
+MovingBlocks
+
+	TECHNOLOGIES: 
+		* java
+		* lwjgl
+		* opengl
+		* blender
+		* gradle
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* game
+		* voxel
+		* minecraft
+		* sandbox
+		* modding
+
+
+Mozilla
+
+	TECHNOLOGIES: 
+		* c++
+		* python
+		* javascript
+		* html
+		* rust
+
+	CATEGORY:  
+
+	TOPICS: 
+		* web
+		* mozilla
+		* firefox
+		* internet
+
+
+MuseScore
+
+	TECHNOLOGIES: 
+		* qt
+		* c/c++
+		* qml
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* music
+		* notation
+		* midi
+		* musicxml
+		* sheet music
+
+
+National Resource for Network Biology (NRNB)
+
+	TECHNOLOGIES: 
+		* c++
+		* java
+		* javascript
+		* php
+		* python
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* dataviz
+		* web
+		* bioinformatics
+		* systems biology
+		* biology
+
+
+Netfilter project
+
+	TECHNOLOGIES: 
+		* firewall
+		* linux kernel
+		* networking
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* firewall
+		* linux kernel
+		* networking
+
+
+Nmap Security Scanner
+
+	TECHNOLOGIES: 
+		* c/c++
+		* lua
+		* python
+		* c
+		* c++
+
+	CATEGORY:  Security
+
+	TOPICS: 
+		* security
+		* networking
+		* ipv6
+		* linux
+		* network mapping
+
+
+NumFOCUS
+
+	TECHNOLOGIES: 
+		* python
+		* javascript
+		* julia
+		* r
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* scientific computing
+		* graphics
+		* data science
+		* numerical computation
+
+
+Open Bioinformatics Foundation
+
+	TECHNOLOGIES: 
+		* perl
+		* python
+		* ruby
+		* java
+		* haskell
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* bioinformatics
+
+
+Open Chemistry
+
+	TECHNOLOGIES: 
+		* c++
+		* opengl
+		* python
+		* javascript
+		* webgl
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* chemistry
+		* materials science
+		* graphics
+		* visualization
+
+
+Open Detection
+
+	TECHNOLOGIES: 
+		* c/c++
+		* cmake
+		* opencv
+		* pcl
+		* caffe
+
+	CATEGORY:  
+
+	TOPICS: 
+		* computer vision
+		* machine learning
+
+
+Open Ephys
+
+	TECHNOLOGIES: 
+		* c++
+		* juce
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* neuroscience
+		* electrophysiology
+		* visualization
+		* ui
+		* signal processing
+
+
+Open Genome Informatics
+
+	TECHNOLOGIES: 
+		* python
+		* java
+		* html/javascript
+		* nodejs
+		* gwt
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* bioinformatics
+		* data visualisation
+		* genome
+		* computational biology
+		* databases
+
+
+Open Source Robotics Foundation
+
+	TECHNOLOGIES: 
+		* ros
+		* gazebo
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* robotics
+		* simulation
+		* middleware
+
+
+OpenAstronomy
+
+	TECHNOLOGIES: 
+		* python
+		* julia
+		* c
+		* numpy
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* science
+		* astronomy
+		* solar physics
+		* atomic physics
+		* visualization
+
+
+OpenCV
+
+	TECHNOLOGIES: 
+		* c++
+		* python
+		* machine learning
+		* computer vision
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* computer vision
+		* machine learning
+		* robotics
+		* virtual reality
+		* real time
+
+
+OpenKeychain (OpenPGP for Android)
+
+	TECHNOLOGIES: 
+		* android
+		* openpgp
+
+	CATEGORY:  Security
+
+	TOPICS: 
+		* security
+		* e-mail
+		* encryption
+
+
+OpenMRS
+
+	TECHNOLOGIES: 
+		* java
+		* groovy
+		* html5
+		* xml
+		* hibernate
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* medical records
+		* health
+		* clinics
+		* ehealth
+		* hospitals
+
+
+OpenStreetMap
+
+	TECHNOLOGIES: 
+		* postgis
+		* java
+		* ruby
+		* javascript
+		* opengl
+
+	CATEGORY:  Data and Databases
+
+	TOPICS: 
+		* gis
+		* maps
+		* crowdsourcing
+		* geoinformatics
+
+
+openSUSE
+
+	TECHNOLOGIES: 
+		* ruby on rails
+		* angularjs
+		* docker
+		* linux
+		* ruby
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* linux
+		* virtualization
+		* web development
+		* configuration management
+
+
+Oppia Foundation
+
+	TECHNOLOGIES: 
+		* javascript
+		* app engine
+		* python
+		* css
+		* angularjs
+
+	CATEGORY:  
+
+	TOPICS: 
+		* education
+		* web
+		* interactive
+		* tools
+		* educational technology
+
+
+Orange – Data Mining Fruitful & Fun
+
+	TECHNOLOGIES: 
+		* python
+		* cython
+		* qt
+		* machine learning
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* machine learning
+		* visualization
+		* data mining
+		* bioinformatics
+		* gui toolkit
+
+
+OSGeo - The Open Source Geospatial Foundation
+
+	TECHNOLOGIES: 
+		* python
+		* sql
+		* c
+		* ogc standards
+		* c++
+
+	CATEGORY:  
+
+	TOPICS: 
+		* gis
+		* science
+		* maps
+		* cartography
+		* geospatial
+
+
+OSU Open Source Lab
+
+	TECHNOLOGIES: 
+		* python
+		* rest
+		* javascript
+		* ruby
+
+	CATEGORY:  
+
+	TOPICS: 
+		* virtualization
+		* infrastructure
+
+
+OWASP Foundation
+
+	TECHNOLOGIES: 
+		* python
+		* php
+		* javascript
+		* java
+		* html
+
+	CATEGORY:  Security
+
+	TOPICS: 
+		* appsec
+		* security
+		* application security
+		* sdlc
+		* secure development
+
+
+ownCloud
+
+	TECHNOLOGIES: 
+		* javascript
+		* php
+		* css
+		* html
+		* sql
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* web
+		* cloud
+		* synchronized
+		* data sharing
+
+
+P2PSP.org
+
+	TECHNOLOGIES: 
+		* python
+		* c++
+		* webrtc
+		* android
+		* ios
+
+	CATEGORY:  
+
+	TOPICS: 
+		* live streaming
+		* networking
+		* security
+		* p2p
+		* multimedia
+
+
+Peragro
+
+	TECHNOLOGIES: 
+		* python
+		* blender
+		* javascript
+		* celery
+		* django
+
+	CATEGORY:  
+
+	TOPICS: 
+		* analyzing
+		* transcoding
+		* pipeline automation
+		* games
+		* web
+
+
+Performance Co-Pilot
+
+	TECHNOLOGIES: 
+		* golang
+		* ruby
+		* java
+		* linux kernel
+		* javascript
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* monitoring
+		* data analysis
+		* visualization
+		* high performance computing
+		* realtime messaging
+
+
+Physical Web Project
+
+	TECHNOLOGIES: 
+		* internet of things
+		* beacons
+		* python
+		* arduino
+
+	CATEGORY:  
+
+	TOPICS: 
+		* internet of things
+		* mobile
+		* web apps
+
+
+PLASMA-UMass
+
+	TECHNOLOGIES: 
+		* javascript
+		* c/c++
+		* scala
+		* go
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* programming languages
+		* programming tools
+		* software engineering
+		* operating systems
+		* runtime systems
+
+
+Plone Foundation
+
+	TECHNOLOGIES: 
+		* python
+		* zope
+		* javascript
+		* rest
+		* nosql
+
+	CATEGORY:  
+
+	TOPICS: 
+		* content management
+		* enterprise applications
+
+
+Portland State University
+
+	TECHNOLOGIES: 
+		* open hardware
+		* language-agnostic
+
+	CATEGORY:  
+
+	TOPICS: 
+		* new projects
+		* academic projects
+		* individual projects
+
+
+PRISM Model Checker
+
+	TECHNOLOGIES: 
+		* java
+		* c++
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* science
+		* verification
+		* probabilistic models
+
+
+Public Lab
+
+	TECHNOLOGIES: 
+		* javascript
+		* ruby on rails
+		* leaflet
+		* webrtc
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* environment
+		* pollution
+		* science
+		* hardware
+		* community
+
+
+Python Software Foundation
+
+	TECHNOLOGIES: 
+		* python
+		* mercurial
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* image analysis
+		* biology
+		* physics
+		* mathematics
+		* hardware
+
+
+QEMU
+
+	TECHNOLOGIES: 
+		* c
+		* assembly
+		* kvm
+
+	CATEGORY:  
+
+	TOPICS: 
+		* virtualization
+		* compilers
+		* operating systems
+		* emulation
+
+
+R project for statistical computing
+
+	TECHNOLOGIES: 
+		* r
+		* c
+		* c++
+		* fortran
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* data science
+		* visualization
+		* statistics
+		* graphics
+		* machine learning
+
+
+radare
+
+	TECHNOLOGIES: 
+		* c
+		* rust
+
+	CATEGORY:  Security
+
+	TOPICS: 
+		* reverse engineering
+		* disassembly
+		* decompilation
+		* security
+		* assembly
+
+
+ReactOS
+
+	TECHNOLOGIES: 
+		* c/c++
+		* c
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* operating systems
+		* drivers
+		* desktop
+		* kernel
+		* windows
+
+
+Red Hen Lab
+
+	TECHNOLOGIES: 
+		* high performance computing
+		* machine learning
+		* opencv
+		* audio procesing
+		* multimodal analysis
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* natural language processing
+		* co-speech gesture
+		* big data visualization
+		* deep learning
+		* multimedia
+
+
+Robocomp
+
+	TECHNOLOGIES: 
+		* c++
+		* python
+		* zeroc ice
+		* cmake
+		* gnu/linux
+
+	CATEGORY:  
+
+	TOPICS: 
+		* robotics
+		* framework
+		* computer vision
+
+
+RTEMS Project
+
+	TECHNOLOGIES: 
+		* c
+		* python
+		* waf
+		* embedded systems
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* real time
+		* posix
+
+
+Ruby
+
+	TECHNOLOGIES: 
+		* ruby
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* programming languages
+
+
+Ruby Science Foundation
+
+	TECHNOLOGIES: 
+		* ruby
+		* c programming
+		* jruby
+		* c/c++
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* visualization
+		* data
+		* math
+		* science
+		* space
+
+
+Sage Mathematical Software System
+
+	TECHNOLOGIES: 
+		* python
+		* javascript
+		* cython
+		* c++
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* mathematics
+		* combinatorics
+		* math
+		* mathematical software
+		* science
+
+
+Scala
+
+	TECHNOLOGIES: 
+		* scala
+		* jvm
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* compilers
+		* programming tools
+		* functional programming
+		* programming languages
+
+
+Scilab Enterprises
+
+	TECHNOLOGIES: 
+		* scilab
+		* c++
+		* java
+		* c
+		* fortran
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* engineering
+		* mechanics
+		* vision
+		* graphics
+		* user interface
+
+
+ScummVM
+
+	TECHNOLOGIES: 
+		* c++
+		* sdl
+		* opengl
+		* assembly
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* software preservation
+		* games
+		* game engines
+
+
+Shogun Machine Learning Toolbox
+
+	TECHNOLOGIES: 
+		* c++
+		* python
+		* swig
+		* cmake
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* machine learning
+		* statistics
+		* fast algorithms
+		* software engineering
+		* bioinformatics
+
+
+Sigmah
+
+	TECHNOLOGIES: 
+		* java
+		* gwt
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* humanitarian
+		* hfoss
+		* project-management
+
+
+Soletta Project
+
+	TECHNOLOGIES: 
+		* c
+		* python
+		* javascript
+		* networking
+		* machine learning
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* internet of things
+		* portable
+		* robotics
+		* drones
+		* makers
+
+
+Stony Brook University Biomedical Informatics
+
+	TECHNOLOGIES: 
+		* medical imaging
+		* bioinformatics
+		* hadoop
+		* big data
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* imaging
+		* genomics
+		* database
+
+
+strace
+
+	TECHNOLOGIES: 
+		* linux
+		* c
+		* git
+		* shell script
+		* make
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* linux
+		* syscall
+		* tracing
+		* c
+		* git
+
+
+Sugar Labs
+
+	TECHNOLOGIES: 
+		* python
+		* javascript
+		* gtk+
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* education
+		* programming
+
+
+Sustainable Computing Research Group ( SCoRe )
+
+	TECHNOLOGIES: 
+		* java
+		* android
+		* hadoop
+		* python
+		* golang
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* iot
+		* security
+		* mobile
+		* forensic
+		* cloud with google computer engine
+
+
+SymPy
+
+	TECHNOLOGIES: 
+		* python
+		* c++
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* math
+		* science
+		* mathematics
+		* physics
+		* computer algebra
+
+
+Systers, an Anita Borg Institute Community
+
+	TECHNOLOGIES: 
+		* python
+		* android
+		* ios
+		* mysql
+		* ruby on rails
+
+	CATEGORY:  
+
+	TOPICS: 
+		* women in tech
+		* systers
+		* women in open source
+
+
+TARDIS-SN
+
+	TECHNOLOGIES: 
+		* python
+		* cython
+		* c
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* astronomy
+		* monte carlo methods
+		* radiative transfer
+		* global optimization
+
+
+TEAMMATES @ National University of Singapore
+
+	TECHNOLOGIES: 
+		* java
+		* app engine
+		* javascript
+		* css
+		* html
+
+	CATEGORY:  
+
+	TOPICS: 
+		* education
+		* web development
+		* cloud
+		* learning management
+		* software as a service
+
+
+The Apertium Project
+
+	TECHNOLOGIES: 
+		* c++
+		* python
+		* perl
+		* xml
+		* finite-state technologies
+
+	CATEGORY:  Social / Communications
+
+	TOPICS: 
+		* machine translation
+		* computer-aided translation
+		* morphological analysis
+		* natural language processing
+		* human language technologies
+
+
+The Center for Connected Learning and Computer-Based Modeling
+
+	TECHNOLOGIES: 
+		* javascript
+		* scala
+		* java
+		* html5
+		* css
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* simulation
+		* programming languages
+		* education
+		* science
+		* research
+
+
+The Honeynet Project
+
+	TECHNOLOGIES: 
+		* android
+		* machine learning
+		* honeypots
+		* python
+		* html/javascript
+
+	CATEGORY:  Security
+
+	TOPICS: 
+		* honeynet
+		* honeypot
+		* security
+		* web development
+		* sandbox
+
+
+The Julia Language
+
+	TECHNOLOGIES: 
+		* julia
+		* atom
+		* c++
+		* javascript
+		* c
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* statistics
+		* linear algebra
+		* data science
+		* numerical computation
+		* integrated development environments
+
+
+The Linux Foundation
+
+	TECHNOLOGIES: 
+		* c
+		* c++
+		* python
+		* mysql
+		* cups
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* kernel
+		* printing
+		* lsb
+		* wireless
+		* spdx
+
+
+The LLVM Compiler Infrastructure
+
+	TECHNOLOGIES: 
+		* c
+		* c++
+		* llvm
+		* clang
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* compiler
+		* backend
+		* frontend
+		* optimization
+		* static code analysis
+
+
+The Monarch Initiative
+
+	TECHNOLOGIES: 
+		* semantic web
+		* javascript
+		* text mining
+		* named entity recognition
+		* ontologies
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* embeddable widget
+		* rare disease
+		* data refinement
+
+
+The NetBSD Foundation
+
+	TECHNOLOGIES: 
+		* bsd
+		* security
+		* networking
+		* c programming
+		* kernel
+
+	CATEGORY:  Operating Systems
+
+	TOPICS: 
+		* operating systems
+		* package system
+
+
+The STE||AR Group
+
+	TECHNOLOGIES: 
+		* parallel processing
+		* high performance computing
+		* c++
+		* cuda
+		* opencl
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* runtime systems
+		* parallel computing
+		* high performance computing
+		* hpx
+		* gpu
+
+
+The syslog-ng project
+
+	TECHNOLOGIES: 
+		* c
+		* java
+		* python
+		* big data
+		* rust
+
+	CATEGORY:  Security
+
+	TOPICS: 
+		* log management
+		* message queue
+		* data extraction
+		* message correlation
+		* continuous delivery
+
+
+The Tor Project
+
+	TECHNOLOGIES: 
+		* c
+		* javascript
+		* golang
+		* python
+		* browser extensions
+
+	CATEGORY:  Security
+
+	TOPICS: 
+		* privacy
+		* security
+		* anonymity
+		* anti-censorship
+		* research
+
+
+The Wine Project
+
+	TECHNOLOGIES: 
+		* c
+		* opengl
+		* directx
+		* x11
+		* win32
+
+	CATEGORY:  
+
+	TOPICS: 
+		* compatibility
+		* desktop integration
+
+
+Timelab Technologies Ltd.
+
+	TECHNOLOGIES: 
+		* python
+		* javascript
+
+	CATEGORY:  End User Applications
+
+	TOPICS: 
+		* astronomy
+		* algorithm prototyping/visualization
+		* mathematics
+		* time series
+
+
+TimVideos.us
+
+	TECHNOLOGIES: 
+		* vhdl
+		* verilog
+		* fpga
+		* python
+		* c
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* embedded hardware
+		* live streaming
+		* video capture
+
+
+Unitex/GramLab
+
+	TECHNOLOGIES: 
+		* java
+		* c++
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* natural language processing
+		* local grammars
+		* finite state automata
+		* corpus annotation
+		* multilingual language resources
+
+
+Urban Energy Systems Laboratory, Empa
+
+	TECHNOLOGIES: 
+		* python
+		* milp
+		* gis
+
+	CATEGORY:  Science and Medicine
+
+	TOPICS: 
+		* energy
+		* simulation
+		* data analysis
+
+
+Vert.x
+
+	TECHNOLOGIES: 
+		* java
+		* reactive
+		* javascript
+		* groovy
+		* micro-services
+
+	CATEGORY:  Programming Languages and Development Tools
+
+	TOPICS: 
+		* micro services
+		* high performance computing
+
+
+VideoLAN / VLMC Project
+
+	TECHNOLOGIES: 
+		* opengl
+		* c++
+		* c
+		* assembly
+		* qt
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* video
+		* multimedia
+		* editor
+		* editing
+		* non-linear
+
+
+vitrivr
+
+	TECHNOLOGIES: 
+		* java
+		* web
+		* computer vision
+		* machine learning
+		* databases
+
+	CATEGORY:  Data and Databases
+
+	TOPICS: 
+		* multimedia retrieval
+		* databases
+
+
+Wayland
+
+	TECHNOLOGIES: 
+		* opengl
+		* wayland
+		* c
+		* xml
+		* kms
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* graphics
+		* window system
+		* display
+		* video
+
+
+Wikimedia Foundation
+
+	TECHNOLOGIES: 
+		* php
+		* javascript
+		* html
+		* css
+		* jquery
+
+	CATEGORY:  
+
+	TOPICS: 
+		* mediawiki
+		* wiki
+		* web
+		* i18n
+		* input methods
+
+
+WSO2
+
+	TECHNOLOGIES: 
+		* middleware
+		* java
+		* soa
+		* distributed computing
+		* web services
+
+	CATEGORY:  
+
+	TOPICS: 
+		* cloud
+		* data analysis
+		* security
+		* micro services
+
+
+X.Org Foundation
+
+	TECHNOLOGIES: 
+		* c
+		* c++
+		* opengl
+		* vulkan
+		* opencl
+
+	CATEGORY:  Graphics / Video / Audio / Virtual Reality
+
+	TOPICS: 
+		* graphics
+
+
+Xapian Search Engine Library
+
+	TECHNOLOGIES: 
+		* c++
+		* unicode
+		* swig
+		* android
+		* golang
+
+	CATEGORY:  Data and Databases
+
+	TOPICS: 
+		* search
+		* information retrieval
+		* machine learning
+		* linguistics
+		* integration
+
+
+XWiki
+
+	TECHNOLOGIES: 
+		* java
+		* javascript
+		* html5
+		* css3
+		* velocity
+
+	CATEGORY:  
+
+	TOPICS: 
+		* web development
+		* web platform and services
+		* wiki
+		* platform
+		* extensions
+
+
+Zulip Open Source Project
+
+	TECHNOLOGIES: 
+		* python
+		* javascript
+		* django
+		* android
+		* ios
+
+	CATEGORY:  Social / Communications
+
+	TOPICS: 
+		* group chat
+		* high quality codebase
+		* full stack web and mobile
+
+
